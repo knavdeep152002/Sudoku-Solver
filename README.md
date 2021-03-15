@@ -1,3 +1,3 @@
 # Sudoku-Solver
 
-This Repo Contains my sudoku solver using gentic algorithm of artificial intelligence.
+This Repo Contains my sudoku solver using genetic algorithm of artificial intelligence.
